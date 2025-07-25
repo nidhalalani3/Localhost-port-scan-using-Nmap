@@ -23,7 +23,7 @@ Purpose: Operating system used for testing and analysis
 Purpose: Loopback address for safe, offline practice            
 
 
-Sample Commands Used
+Commands Used
 
 bash
 nmap 127.0.0.1             # Basic localhost scan  
